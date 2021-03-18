@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @codesofmayur
-- 👀 I’m interested in ...Python Artificial Inteligence
-- 🌱 I’m currently learning ... React Java Script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mayur Nawghare
+- 👀 I’m interested in ... Predictions  & Big Data
+- 🌱 I’m currently learning ... React, JavaScript & Python
+- 💞️ I’m looking to collaborate on ... Machine Learning
+- 📫 How to reach me ... mayurnawghare57@outlook.com
 
 <!---
 codesofmayur/codesofmayur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
